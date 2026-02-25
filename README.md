@@ -23,7 +23,7 @@ The data is collected using web scraping techniques from an archived Wikipedia p
 - Python
 - Pandas
 - NumPy
-- lxml (for HTML parsing)
+- xml (for HTML parsing)
 
 ---
 
